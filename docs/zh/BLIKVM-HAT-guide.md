@@ -79,7 +79,7 @@ Hat配有金属外壳，用于保护和散热。Hat可以被安装到1U的机架
 !!! info "OLED屏幕将会正常显示设备的工作状态，包括设备的IP地址"
     ![IMG_8379](assets/images/BLIKVM-HAT/hat-install/IMG_8379.JPG){width="300"}
 
-!!! info "打开浏览器，输入设备的IP地址，即可打开控制的WEB界面，现在去使用它吧！"
+!!! info "打开浏览器，输入设备的IP地址，即可打开控制的WEB界面，现在去使用它吧!"
     ![image-20220621174207504](assets/images/BLIKVM-HAT/hat-install/image-20220621174207504.png){width="300"}
 
 ## **性能参数**

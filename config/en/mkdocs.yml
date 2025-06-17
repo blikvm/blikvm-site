@@ -69,6 +69,7 @@ nav:
         - "BliKVM v1 CM4": BLIKVM-CM4-guide.md
         - "Multiport BliSwitch v2 (8-port)": bliswitch-v2-guide.md 
         - "Multiport BliSwitch v1 (4-port)": bliswitch-v1-guide.md
+        - "C792 HDMI to CSI & I2S Video Loopback Module": C792.md
     - "Getting Started":
         - "First Steps": first_steps.md
         - "Authentication & 2FA": auth.md

@@ -69,6 +69,7 @@ nav:
       - "BliKVM v1 CM4": BLIKVM-CM4-guide.md
       - "BliSwitch v2 (8通道)": bliswitch-v2-guide.md 
       - "BliSwitch v1 (4通道)": bliswitch-v1-guide.md
+      - "C792 HDMI转CSI&I2S视频环出模块": C792.md
     - "快速开始":
       - "第一步": first_steps.md
       - "认证和2FA": auth.md
